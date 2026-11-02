@@ -1,0 +1,14 @@
+ERROR:root:Startup failed
+Traceback (most recent call last):
+  File "d:\Chandigarh University Programm\Python\miniproject\Personal_Expense_Tracker\expense_tracker\main.py", line 28, in main
+    from tracker.reports import ReportManager
+  File "d:\Chandigarh University Programm\Python\miniproject\Personal_Expense_Tracker\expense_tracker\tracker\reports.py", line 7, in <module>
+    from reportlab.lib import colors
+ModuleNotFoundError: No module named 'reportlab'
+ERROR:root:Startup failed
+Traceback (most recent call last):
+  File "d:\Chandigarh University Programm\Python\miniproject\Personal_Expense_Tracker\expense_tracker\main.py", line 28, in main
+    from tracker.reports import ReportManager
+  File "d:\Chandigarh University Programm\Python\miniproject\Personal_Expense_Tracker\expense_tracker\tracker\reports.py", line 6, in <module>
+    from reportlab.lib import colors
+ModuleNotFoundError: No module named 'reportlab'
